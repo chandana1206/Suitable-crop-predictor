@@ -217,4 +217,4 @@ user_input = np.array([[N, P, K, temperature, humidity, ph, rainfall]])
 
 # Predict the crop
 prediction = model.predict(user_input)
-print("The Suggested Crop for given climatic condition is :",prediction)
+print("The Suggested Crop for the given climatic condition is :",prediction)
