@@ -1,4 +1,5 @@
-# Suitable-crop-predictor
+Suitable-Crop-Predictor
+
 A system to recommend suitable crops based on soil and climatic conditions.
 This project aims to recommend suitable crops based on soil and climatic conditions using machine learning techniques. The dataset includes various soil properties and climatic conditions for different crops.
 
@@ -10,7 +11,7 @@ This project aims to recommend suitable crops based on soil and climatic conditi
 - Predictive modeling with Logistic Regression.
 - User input interface for real-time crop recommendation.
 
-## Getting Started
+Technologies Used:
 
 - Python 3.x
 - Required packages: pandas, numpy, matplotlib, seaborn, scikit-learn, ipywidgets
